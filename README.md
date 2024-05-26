@@ -1,6 +1,6 @@
 # AMIRAC  
 
-##Build  
+#Build  
 * Git
 * CMake
 * Python 3
@@ -9,5 +9,5 @@
 * (Linux only) ROCm 5.7+
 * (Recommended) Ninja (https://ninja-build.org)
 
-    Build by running :
-  cargo xtask --release
+    Run : cargo xtask --release
+  
