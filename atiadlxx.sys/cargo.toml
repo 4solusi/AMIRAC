@@ -1,8 +1,8 @@
 [package]
 name = "atiadlxx-sys"
 version = "0.0.0"
-authors = ["Andrzej Janik <vosen@vosen.pl>"]
-edition = "2018"
+authors = ["AMIRAC"]
+edition = "2024"
 links = "atiadlxx"
 
 [lib]
