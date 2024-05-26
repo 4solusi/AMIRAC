@@ -4,7 +4,7 @@
 * Git
 * CMake
 * Python 3
-* Rust 1.7.0 (Stable)
+* Rust 1.7.8.0 (Stable)
 * C++ compiler
 * (Linux only) ROCm 5.7+
 * (Recommended) Ninja (https://ninja-build.org)
